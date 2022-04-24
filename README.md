@@ -8,20 +8,18 @@ I'm Yalcin Selcuk <br/>
 I am a 3rd year computer engineering student at İnönü University. <br/>
 I am interested in Java and C#.  <br/>
 I have Web Backend studies with Java.  <br/>
-I just started working with C# and I want to get advanced in it as soon as possible. <br/>
+I just started working with C# and I want to get advanced in it as soon as possible. <br/>  <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,css,html,js&theme=light)](https://skillicons.dev) <br/>
- 
+![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,js,eclipse,postgres&theme=light)<br/> <br/>
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/yalcinselcuk/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/yalcinselcuk/)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/yalcinselcukkk/)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/yalcinselcukkk/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalcinselcuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yalcinselcuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yalcinselcukkk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yalcinselcukkk/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yalcinselcuk)  
-
-![GitHub metrics](https://metrics.lecoq.io/yalcinselcuk)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)   
 
 ![Profile views](https://gpvc.arturio.dev/yalcinselcuk)  
