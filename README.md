@@ -10,7 +10,8 @@ I am interested in Java and C#.  <br/>
 I have Web Backend studies with Java.  <br/>
 I just started working with C# and I want to get advanced in it as soon as possible. <br/>
 
-Skills: JAVA / C# / HTML / CSS /JAVASCRİPT 
+[![My Skills](https://skillicons.dev/icons?i=java,cs,css,html,js&theme=light)](https://skillicons.dev) <br/>
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yalcinselcuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yalcinselcuk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yalcinselcukkk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yalcinselcukkk/)
