@@ -3,13 +3,12 @@
 ### Hi there 👋, Yalcin Selcuk
 #### Junior Software Developer
 
-![Junior Software Developer](https://avatars.githubusercontent.com/u/81808916?s=400&u=e7b42962619405d4d0ff3bc67d6be0e4dcba8eeb&v=4)
 
-I'm Yalcin Selcuk
-I am a 3rd year computer engineering student at İnönü University.
-I am interested in Java and C#. 
-I have Web Backend studies with Java. 
-I just started working with C# and I want to get advanced in it as soon as possible.
+I'm Yalcin Selcuk <br/>
+I am a 3rd year computer engineering student at İnönü University. <br/>
+I am interested in Java and C#.  <br/>
+I have Web Backend studies with Java.  <br/>
+I just started working with C# and I want to get advanced in it as soon as possible. <br/>
 
 Skills: JAVA / C# / HTML / CSS /JAVASCRİPT 
 
