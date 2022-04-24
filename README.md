@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**yalcinselcuk/yalcinselcuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yalcin Selcuk
+I am a 3rd year computer engineering student at İnönü University.
+I am interested in Java and C#.
+I have Web Backend studies with Java.
+I just started working with C# and I want to get advanced in it as soon as possible.
 
-Here are some ideas to get you started:
+Below you will find the links of a few projects I have worked on Java;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/yalcinselcuk/WebTextile
+https://github.com/yalcinselcuk/HRMS_Backend
+https://github.com/yalcinselcuk/Northwind
+https://github.com/yalcinselcuk/JavaEECourse
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk)](https://github.com/anuraghazra/github-readme-stats)
