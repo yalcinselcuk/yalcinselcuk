@@ -5,7 +5,7 @@
 
 
 I'm Yalcin Selcuk <br/>
-I am a 3rd year computer engineering student at İnönü University. <br/>
+I am a 4th year computer engineering student at İnönü University. <br/>
 I am interested in Java and C#.  <br/>
 I have Web Backend studies with Java.  <br/>
 I just started working with C# and I want to get advanced in it as soon as possible. <br/>  <br/>
