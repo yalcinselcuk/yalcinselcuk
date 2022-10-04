@@ -18,8 +18,6 @@ I just started working with C# and I want to get advanced in it as soon as possi
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)   
 
 ![Profile views](https://gpvc.arturio.dev/yalcinselcuk)  
