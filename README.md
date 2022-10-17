@@ -6,9 +6,15 @@
 
 I'm Yalcin Selcuk <br/>
 I am a 4th year computer engineering student at İnönü University. <br/>
-I am interested in Java and C#.  <br/>
-I have Web Backend studies with Java.  <br/>
-I just started working with C# and I want to get advanced in it as soon as possible. <br/>  <br/>
+I am interested in Java, C#, Html-Css-Js, ASP.NET.  <br/>
+As an intern in Software Development
+During my internship, C# and SQL
+I developed an ERP project using
+With Java, I have been in the Web domain throughout my school life.
+researching the technologies used and using HTML, CSS and
+Web Project demo using JavaScript
+I developed.
+
 
 ![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,js,eclipse,postgres&theme=light)<br/> <br/>
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/yalcinselcuk/)
