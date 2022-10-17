@@ -28,4 +28,4 @@ I developed.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)   
 
 
-![Profile views](https://gpvc.arturio.dev/yalcinselcuk)  
+ 
