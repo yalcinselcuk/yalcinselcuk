@@ -16,7 +16,7 @@ Web Project demo using JavaScript
 I developed.
 
 
-![My Skills](https://skillicons.dev/icons?i=java,cs,html,css,js,eclipse,postgres&theme=light)<br/> <br/>
+![My Skills](https://skillicons.dev/icons?i=java,react,cs,html,css,js,eclipse,postgres&theme=light)<br/> <br/>
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/yalcinselcuk/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/yalcinselcuk/)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/yalcinselcukkk/)
