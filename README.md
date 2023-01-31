@@ -6,7 +6,7 @@
 
 I'm Yalcin Selcuk <br/>
 I am a 4th year computer engineering student at İnönü University. <br/>
-I am interested in Java, C#, Html-Css-Js, ASP.NET.  <br/>
+I am interested in Java, Spring Boot, Reactjs, C#, Html-Css-Js, ASP.NET.  <br/>
 As an intern in Software Development
 During my internship, C# and SQL
 I developed an ERP project using
