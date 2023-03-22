@@ -17,7 +17,7 @@
 
 <h1 align = "center">
    My Skills <br/> <br/>
-   <img src = "https://skillicons.dev/icons?i=java,react,cs,html,css,js,eclipse,postgres&theme=light"/>
+   <img src = "https://skillicons.dev/icons?i=,linux,java,react,postman,cs,html,css,js,eclipse,idea,postgres,mysql,gitlab &theme=light"/>
 </h1>
 
 <h1 align = "center">
