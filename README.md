@@ -7,8 +7,8 @@
    
 
 <h1 align = "center">
-   I am a 4th year Computer Engineering  <br/> student at İnönü University. <br/>
-    I have knowledge of Java, Spring Boot, ReactJS, <br/> .Net Core, HTML-CSS-JS.
+   I am a 4th year Computer Engineering  <br/> student at İnönü University. <br/> <br/>
+    I have knowledge of ; <br/> - Java,<br/> - Spring Boot,<br/> - ReactJS,<br/> - .Net Core, <br/> - HTML-CSS-JS.
 
 </h1>
 
