@@ -1,34 +1,41 @@
 
 <h1 align = "center">
-   ### Hi there 👋, Yalcin Selcuk <br/>
-   #### Junior Software Developer
+    Hi there 👋, Yalcin Selcuk <br/>
+    Junior Software Developer
 </h1>
 
    
 
+<h1 align = "center">
+   I am a 4th year Computer Engineering student at İnönü University. <br/>
+    I have knowledge of Java, Spring Boot, ReactJS, .Net Core, <br/> HTML-CSS-JS.
 
-   I'm Yalcin Selcuk <br/>
-   I am a 4th year computer engineering student at İnönü University. <br/>
-   I am interested in Java, Spring Boot, Reactjs, C#, Html-Css-Js, ASP.NET.  <br/>
-   As an intern in Software Development
-   During my internship, C# and SQL
-   I developed an ERP project using
-   With Java, I have been in the Web domain throughout my school life.
-   researching the technologies used and using HTML, CSS and
-   Web Project demo using JavaScript
-   I developed.
+</h1>
 
+<h1 align = "center">
+   My Skills <br/> <br/>
+   <img src = "https://skillicons.dev/icons?i=java,react,cs,html,css,js,eclipse,postgres&theme=light"/>
+</h1>
 
-   ![My Skills](https://skillicons.dev/icons?i=java,react,cs,html,css,js,eclipse,postgres&theme=light)<br/> <br/>
-   [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/yalcinselcuk/)
-   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/yalcinselcuk/)
-   [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/yalcinselcukkk/)
-   [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/yalcinselcukkk/)
+<h1 align = "center">
+   My Contact Addresses <br/> <br/>
+   <p>
+      <a href="https://github.com/yalcinselcuk/">
+         <img src="https://skillicons.dev/icons?i=github&theme=light" width="50" height="50">
+      </a>
+      <a href="https://www.linkedin.com/in/yalcinselcuk/">
+         <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" height="50">
+      </a>
+      <a href="https://www.instagram.com/yalcinselcukkk/">
+         <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50">
+      </a>
+   </p>
+</h1>
 
+<h1 align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple">
+</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)   
-
-
- 
+<h1 align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true">
+</h1>
