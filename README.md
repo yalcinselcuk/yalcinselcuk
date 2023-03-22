@@ -1,7 +1,10 @@
 
-<h1 align="center">
-   ### Hi there 👋, Yalcin Selcuk
+<h1 align = "center">
+   ### Hi there 👋, Yalcin Selcuk <br/>
    #### Junior Software Developer
+</h1>
+
+   
 
 
    I'm Yalcin Selcuk <br/>
@@ -22,7 +25,7 @@
    [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/yalcinselcukkk/)
    [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/yalcinselcukkk/)
 
-</h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true)   
