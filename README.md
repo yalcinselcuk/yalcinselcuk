@@ -23,9 +23,6 @@
 <h1 align = "center">
    My Contact Addresses <br/> <br/>
    <p>
-      <a href="https://github.com/yalcinselcuk/">
-         <img src="https://skillicons.dev/icons?i=github&theme=light" width="50" height="50">
-      </a>
       <a href="https://www.linkedin.com/in/yalcinselcuk/">
          <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" height="50">
       </a>
