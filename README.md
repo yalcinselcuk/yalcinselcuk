@@ -8,7 +8,10 @@
 
 <h1 align = "center">
    I am a 4th year Computer Engineering  <br/> student at İnönü University. <br/> <br/>
-    I have knowledge of ; <br/> - Java,<br/> - Spring Boot,<br/> - ReactJS,<br/> - .Net Core, <br/> - HTML-CSS-JS.
+    Example Projects ; 
+            <br/> - <a href = "https://github.com/yalcinselcuk/Web-Demo">Web Demo (JAVA)</a>,
+            <br/> - <a href = "https://github.com/yalcinselcuk/WebTextile">Web Textile (JAVA)</a>,
+            <br/> - <a href = "https://github.com/yalcinselcuk/TextileERP">Textile ERP (C#)</a>
 
 </h1>
 
