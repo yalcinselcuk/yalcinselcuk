@@ -36,6 +36,3 @@
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yalcinselcuk&theme=midnight-purple">
 </h1>
 
-<h1 align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=yalcinselcuk&theme=midnight-purple&show_icons=true">
-</h1>
