@@ -11,7 +11,6 @@
     Example Projects ; 
             <br/> - <a href = "https://github.com/yalcinselcuk/Web-Demo">Web Demo (JAVA)</a>,
             <br/> - <a href = "https://github.com/yalcinselcuk/WebTextile">Web Textile (JAVA)</a>,
-            <br/> - <a href = "https://github.com/yalcinselcuk/TextileERP">Textile ERP (C#-Windows Form)</a>
 
 </h1>
 
