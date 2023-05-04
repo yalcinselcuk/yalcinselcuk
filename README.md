@@ -16,7 +16,7 @@
 
 <h1 align = "center">
    Languages and Tools <br/> <br/>
-   <img src = "https://skillicons.dev/icons?i=,linux,java,react,postman,cs,html,css,js, postgres,mysql,gitlab &theme=light"/>
+   <img src = "https://skillicons.dev/icons?i=,linux,java,react,postman,cs,html,css,js,mysql,postgres,gitlab &theme=light"/>
 </h1>
 
 <h1 align = "center">
