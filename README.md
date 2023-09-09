@@ -1,7 +1,7 @@
 
 <h1 align = "center">
     Hi there 👋, Yalcin Selcuk <br/>
-    Junior Software Developer
+    Software Developer
 </h1>
 
    
