@@ -5,7 +5,7 @@
 </h1>
 
    
-
+<!--
 <h1 align = "center">
    I am a 4th year Computer Engineering  <br/> student at İnönü University. <br/> <br/>
     Example Projects ; 
@@ -13,11 +13,11 @@
             <br/> - <a href = "https://github.com/yalcinselcuk/WebTextile">Web Textile (JAVA)</a>,
             <br/> - <a href = "https://github.com/yalcinselcuk/E-Ticaret">E-Ticaret (ASP.NET CORE)</a>
 
-</h1>
+</h1>-->
 
 <h1 align = "center">
    Languages and Tools <br/> <br/>
-   <img src = "https://skillicons.dev/icons?i=,dotnet,linux,java,spring,react,postman,cs,html,css,js,mysql,postgres,gitlab &theme=light"/>
+   <img src = "https://skillicons.dev/icons?i=,dotnet,linux,java,spring,react,postman,cs,html,css,js,mysql,postgres,gitlab,git,jenkins &theme=light"/>
 </h1>
 
 <h1 align = "center">
