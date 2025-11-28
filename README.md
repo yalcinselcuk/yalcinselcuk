@@ -32,9 +32,8 @@
   
   ## 📚 Örnek Projeler
   
-  * **Web Demo (JAVA):** [Depoda İncele](https://github.com/yalcinselcuk/Web-Demo)
-  * **Web Textile (JAVA):** [Depoda İncele](https://github.com/yalcinselcuk/WebTextile)
-  * **E-Ticaret (ASP.NET CORE):** [Depoda İncele](https://github.com/yalcinselcuk/E-Ticaret)
+  * **Web Textile (JAVA):** [Repoda İncele](https://github.com/yalcinselcuk/WebTextile)
+  * **E-Ticaret (ASP.NET CORE):** [Repoda İncele](https://github.com/yalcinselcuk/E-Ticaret)
   
   <br/>
   
